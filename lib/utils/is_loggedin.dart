@@ -1,3 +1,0 @@
-bool isLoggedIn() {
-  return false;
-}
